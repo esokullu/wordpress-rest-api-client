@@ -1,10 +1,5 @@
 {
-  "name": "vnn/wordpress-rest-api-client",
-  "config": {
-    "platform": {
-      "php": "7.0.33"
-    }
-  },
+  "name": "esokullu/wordpress-rest-api-client",
   "autoload": {
     "psr-4": {
       "Vnn\\WpApiClient\\": "src/"
